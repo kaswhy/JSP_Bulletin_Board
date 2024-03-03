@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d00506c-1f09-4de0-83c1-085390f5936c" name="변경" comment="feat: index 페이지, login 페이지 뼈대">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="1d00506c-1f09-4de0-83c1-085390f5936c" name="변경" comment="feat: 인덱스 페이지 meta 태그 추가">
       <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +117,7 @@
       <updated>1709376897821</updated>
       <workItem from="1709376898546" duration="629000" />
       <workItem from="1709442577463" duration="83000" />
-      <workItem from="1709442683166" duration="5955000" />
+      <workItem from="1709442683166" duration="6257000" />
     </task>
     <task id="LOCAL-00001" summary="feat: index 페이지, login 페이지 뼈대">
       <option name="closed" value="true" />
@@ -129,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709443148026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore">
+      <option name="closed" value="true" />
+      <created>1709462932940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709462932940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 인덱스 페이지 meta 태그 추가">
+      <option name="closed" value="true" />
+      <created>1709463031659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709463031659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +151,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: index 페이지, login 페이지 뼈대" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: index 페이지, login 페이지 뼈대" />
+    <MESSAGE value="chore" />
+    <MESSAGE value="feat: 인덱스 페이지 meta 태그 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 인덱스 페이지 meta 태그 추가" />
   </component>
 </project>
